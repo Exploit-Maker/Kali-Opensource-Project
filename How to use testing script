@@ -1,0 +1,22 @@
+Usage:
+
+Setup Kali Linux ARM:
+
+Ensure you have Kali Linux ARM installed on your ARM device (e.g., Raspberry Pi).
+Install the required tools (Nmap, Metasploit, etc.) using the package manager.
+Copy the Script:
+
+Copy the Python script to your Kali Linux ARM device. You can use methods like SCP or simply download it using a web browser.
+Execute the Script:
+
+Run the script on your Kali Linux ARM device using Python:
+
+bash
+Copy code
+python testing_script.py
+Observe the Output:
+
+The script will execute various test cases, and you'll see the output on the terminal. The example script tests Nmap, Metasploit, wireless tools, and SSL analysis tools.
+Adjust and Expand:
+
+Modify the script to include additional test cases or specific tools you want to test on Kali Linux ARM.
